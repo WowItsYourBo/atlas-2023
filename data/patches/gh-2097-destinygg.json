@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Destiny.gg",
+	"description": "The website of popular cuban american streamer Steven \"Destiny\" Kenneth Bonnell II",
+	"links": {
+		"website": [
+			"https://www.destiny.gg/"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-816,
+				972
+			],
+			[
+				-817,
+				973
+			],
+			[
+				-816,
+				999
+			],
+			[
+				-743,
+				999
+			],
+			[
+				-743,
+				972
+			],
+			[
+				-782,
+				972
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-780,
+			986
+		]
+	}
+}
